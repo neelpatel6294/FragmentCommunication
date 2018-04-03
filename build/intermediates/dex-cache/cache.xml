@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\9c7d6beb56801a84f1287fcd7c3646b0acf55fe2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_a840db756983c82976f6ab168dbc7f4edab62bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\fee001476a010eb58e2428fdfa8c2d4eab44084b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_55c1684037c6e0d5c754d74966ffb4e8c7dda139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\7feaaba75c3b9c4225782e202de2312eb6bba42a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_b5f3bf2d3e553ca8e7a88bbeaeec5cb6a2f1f710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\db9332e53f461a3d55b8d7bae36e0323ae5b425f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_91a2c15314d163f9e2861d7d79b594fee32db7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\7dcc5fbf08eb8a76748b066148e2a8ad5c901801\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_a712f2936f66381e9a2c18708b57af864efb80a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_92668b74f074a9998f173ec8aee1f7281e303f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\80a778adb4e19c907aa581014901c45f53708ec8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_91fe5b7070f70123364fb81f4858e879faf59ca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\25f3d2533e6381a1bdad3b0952bce1c91bab3aeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_6f837900cb5ede33a7d4fcc5f525d83e67ef3ebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\1d50857daa030d045400359cd181446dde2cf3d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_184993c49addd3f61802dbec7b921be7bba297a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\2f90fb329277a004586030ad55a360d7d8d2b2a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_b1d0bc7775bef4f6fea73b150afc70f0a885e9f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.1_235a08c3d26011328cbede389378abc1f92d08db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PATEL\.android\build-cache\1c02094b56ccfd452be8ed98d522fa2e3303a726\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\PATEL\AndroidStudioProjects\android-advanced-master\FragmentExample1\app\build\intermediates\pre-dexed\debug\classes_56d884a8ece97b50ef488e457bf15a8f153c27bb.jar" />
+    </item>
+
+</items>
